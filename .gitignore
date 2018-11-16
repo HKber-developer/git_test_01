@@ -1,0 +1,9 @@
+.vscode
+.vscode/*
+.vscode/
+.vscode*/
+log
+log/*
+log/
+log*/
+app_environment.js
