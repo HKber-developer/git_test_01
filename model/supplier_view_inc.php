@@ -1,0 +1,4 @@
+function supplier_view {
+
+    
+}
