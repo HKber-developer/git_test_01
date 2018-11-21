@@ -3,4 +3,5 @@
 .vscode/
 .vscode*/
 log/
+log/*
 app_environment.js
